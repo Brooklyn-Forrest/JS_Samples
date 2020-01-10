@@ -1,7 +1,7 @@
 # JS_Samples
 
 create_new_share.php- This is part of a fileshare management project. It uses an API to gather the existing fileshare structure
-and place that data into specific input areas. It includes functionality for a varying number of alerts and paging. An image as been
+and place that data into specific input areas. It includes functionality for a varying number of alerts and paging. An image has been
 included of what this looks like when rendered, since the API could not be included here.
 
 assist.js- An external file for misc. operations/functions related to the form in create_new_share.php itself.
